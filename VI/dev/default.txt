@@ -1,0 +1,16 @@
+Vlasko 212 Intel 43 External 5 ATA/SATA 6 7 8 9 Windows true
+Goglov 123 Intel 239 Builtin 145 ATA/SATA 23 45 32 23 macOS false
+Markov 234 IBM 256 External 13 ATA/SATA 23 35 321 4 Windows true
+Zhukov 12 AMD 456 External 45 SCSI/IDE 34 2 2 1 Linux false
+Grigoriev 123 Intel 234 PCI 14 SCSI/IDE 276 23 556 22 Windows true
+Ganyak 789 AMD 734 AGP 89 ATA/SATA 234 21 456 11 Linux false
+Bitukov 128 IBM 754 External 23 ATA/SATA 124 65 334 22 macOS true
+Romanov 118 Intel 238 Builtin 34 SCSI/IDE 127 343 21 38 Windows false
+Bolotin 636 AMD 123 External 12 SCSI/IDE 322 556 32 54 Linux true
+Khulagov 112 Intel 432 AGP 33 ATA/SATA 737 232 11 93 Windows false
+Gagarin 432 IBM 663 PCI 73 ATA/SATA 893 838 232 299 Linux false
+Girkin 566 IBM 32 External 88 SCSI/IDE 832 176 727 31 macOS true
+Sharapov 832 Intel 23 External 85 ATA/SATA 83 221 84 81 Windows true
+Bunko 830 Intel 81 Builtin 90 SCSI/IDE 939 99 221 48 Linux false
+Zhuk 772 AMD 89 PCI 82 SCSI/IDE 883 882 991 11 ColibriOS true
+
